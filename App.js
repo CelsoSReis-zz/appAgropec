@@ -42,8 +42,6 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#dcdcdc',
-
   },
   viewRodape: {
     flex: 1,
