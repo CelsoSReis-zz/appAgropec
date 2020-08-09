@@ -1,9 +1,4 @@
 {
   "name": "appAgropec",
-  "displayName": "appAgropec",
-  "splash": {
-    "image": "./assets/img/splash.png",
-    "resizeMode": "cover",
-    "backgroundColor": "#000"
-  }
+  "displayName": "appAgropec"
 }
